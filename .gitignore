@@ -1,0 +1,17 @@
+# app_checklist (dependencies, build output)
+node_modules/
+dist/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+.env.*.local
