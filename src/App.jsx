@@ -20,6 +20,7 @@ export default function App() {
     { name: 'Ghim kẹp mũ (đen)' },
     { name: 'Gương' },
     { name: 'Lược' },
+    { name: 'Nước hoa' },
   ];
 
   const timeline = [
