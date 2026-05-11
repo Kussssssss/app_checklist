@@ -21,6 +21,9 @@ export default function App() {
     { name: 'Gương' },
     { name: 'Lược' },
     { name: 'Nước hoa' },
+    { name: 'Bông tai' },
+    { name: 'Mắt kính' },
+    { name: 'Tai nghe' },
   ];
 
   const timeline = [
