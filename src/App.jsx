@@ -34,6 +34,7 @@ export default function App() {
     { time: '9h30 - 10h', task: 'UEL ➜ Thay đồ', icon: '👗' },
     { time: '10h - 11h', task: 'Mời', icon: '💌' },
     { time: '13h30', task: 'Tập trung', icon: '👥' },
+    { time: '13h45', task: 'Lấy sổ đoàn (E25)', icon: '📓' },
     { time: '14h', task: 'Vào lễ', icon: '🎉' },
   ];
 
